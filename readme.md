@@ -30,4 +30,4 @@
 </tr>
 </table>
 
-![Курс](https://github.com/Loveskyrim/short_python_course/edit/master/course.jpg)
+![Курс](course.jpg)
