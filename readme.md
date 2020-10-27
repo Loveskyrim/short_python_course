@@ -24,8 +24,8 @@
 </tr>
   <tr>
   <td>27.10</td>
-  <td>Условные конструкции в Python.</td>
+  <td>Условные конструкции в Python. Функции, работа с функциями.</td>
   <td><a href="https://github.com/Loveskyrim/short_python_course/tree/master/27.10">Папка 27.10</a><br><br>
-    <a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/25.09/practice-1.ipynb">Практика</a></td>
+    <a href="https://github.com/Loveskyrim/short_python_course/tree/master/27.10/practice-1.ipynb">Практика</a></td>
 </tr>
 </table>
