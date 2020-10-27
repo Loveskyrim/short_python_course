@@ -29,3 +29,5 @@
     <a href="https://github.com/Loveskyrim/short_python_course/tree/master/27.10/practice-1.ipynb">Практика</a></td>
 </tr>
 </table>
+
+![Курс](https://github.com/Loveskyrim/short_python_course/edit/master/course.jpg)
